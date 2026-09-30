@@ -242,4 +242,4 @@ This repository serves as the official landing page for Skulls of the Shogun. Th
 **Get the most recent version of Skulls of the Shogun today!**
 
 ---
-**Last updated:** 2026-09-29 21:07:40 UTC
+**Last updated:** 2026-09-30 00:50:35 UTC
